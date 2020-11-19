@@ -3,6 +3,11 @@
 [![Follow on Twitter](https://img.shields.io/badge/twitter-dartcode-blue.svg)](https://twitter.com/DartCode)
 [![Contribute to Dart Code](https://img.shields.io/badge/help-contribute-551A8B.svg)](https://github.com/Dart-Code/Dart-Code/blob/master/CONTRIBUTING.md)
 
+A word on Architecture: 
+We bascially transform your input into data structures and output the resultant code. You could browsw the project by which you may gain thorough knowleddge of Code Generation. 
+We would gladly accept your help in improving it too!
+
+
 ## Introduction
 
 Dart Code extends [VS Code](https://code.visualstudio.com/) with support for the
